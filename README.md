@@ -218,3 +218,15 @@ https://shayete.tistory.com/entry/%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AC%B8
   
 https://rfriend.tistory.com/411  
 -> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
+
+https://stackoverflow.com/questions/15952291/how-to-duplicate-rows-in-pandas-based-on-items-in-a-list  
+-> 데이터프레임 컬럼에 리스트가 있을 때, 이에 맞춰서 행복사 stack!!!!  
+  
+  
+**** 데이터 재구조화 ****  
+https://rfriend.tistory.com/276  
+-> stack, unstack 함수  
+  
+https://rfriend.tistory.com/278?category=675917  
+-> pd.melt()함수  
+
