@@ -229,4 +229,8 @@ https://rfriend.tistory.com/276
   
 https://rfriend.tistory.com/278?category=675917  
 -> pd.melt()함수  
+  
+https://tariat.tistory.com/421  
+-> tqdm 라이브러리, for문 상태바 표시 해줌  
+
 
