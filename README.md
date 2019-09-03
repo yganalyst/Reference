@@ -236,3 +236,6 @@ https://tariat.tistory.com/421
 https://datascienceschool.net/view-notebook/c5ccddd6716042ee8be3e5436081778b/  
 -> read_csv 옵션에 대한 상세한 설명  
 
+https://wlstnans.tistory.com/101  
+-> if문의 continue와 pass의 차이  
+
