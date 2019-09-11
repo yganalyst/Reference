@@ -238,4 +238,7 @@ https://datascienceschool.net/view-notebook/c5ccddd6716042ee8be3e5436081778b/
 
 https://wlstnans.tistory.com/101  
 -> if문의 continue와 pass의 차이  
+  
+https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
+-> 딕셔너리 정렬  
 
