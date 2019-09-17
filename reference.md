@@ -241,4 +241,9 @@ https://wlstnans.tistory.com/101
   
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
 -> 딕셔너리 정렬  
+  
+
+
+https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
+-> y축 두개일때, legend 생성하는 방법  
 
