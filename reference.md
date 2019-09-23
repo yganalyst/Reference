@@ -247,4 +247,8 @@ https://stackoverflow.com/questions/35072400/how-to-set-a-secondary-y-axis-in-py
   
 https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
 -> y축 두개일때, legend 생성하는 방법  
+  
+https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
+=> groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
+
 
