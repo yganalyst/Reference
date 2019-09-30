@@ -250,5 +250,8 @@ https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes
   
 https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
 => groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
+  
+https://webisfree.com/2019-01-23/python-%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%85%84%EC%9B%94%EC%9D%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95  
+=> datetime, timestamp 이용방식 (중요)  
 
 
