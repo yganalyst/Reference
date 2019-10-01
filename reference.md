@@ -258,4 +258,6 @@ https://www.codeit.kr/questions/7823
 https://pinkwink.kr/1127  
 => 추세선 그리기 (날짜가 X일때는 위의 timestamp를 이용해야함)  
   
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html  
+=> np.polyfit 함수 : 최소제곱법을 이용한 회귀식(추세선) 
 
