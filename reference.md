@@ -260,4 +260,9 @@ https://pinkwink.kr/1127
   
 https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html  
 => np.polyfit 함수 : 최소제곱법을 이용한 회귀식(추세선) 
-
+  
+https://gis.stackexchange.com/questions/269243/create-a-polygon-grid-using-with-geopandas  
+=> python에서 shp파일 읽어서 polygon에 대한 격자 grid 생성하기  
+  
+https://stackoverflow.com/questions/40818679/geopandas-difference-methode-between-polygon-and-points  
+=> geopandas로 한 점에 대한 buffer 생성  
