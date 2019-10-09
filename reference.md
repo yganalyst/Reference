@@ -272,3 +272,6 @@ https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84
 
 https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/  
 => k-means 조금 자세한 설명  
+  
+https://gis.stackexchange.com/questions/253224/geopandas-buffer-using-geodataframe-while-maintaining-the-dataframe  
+=> geopandas buffer 쉬운 예제  
