@@ -278,3 +278,6 @@ https://gis.stackexchange.com/questions/253224/geopandas-buffer-using-geodatafra
   
 https://gis.stackexchange.com/questions/301251/geopandas-import-csv-make-polygons-from-x-y-coordinates-based-on-id  
 => 그냥 pandas로 csv 읽어서 mapping을 이용해 geodataframe 생성하기  
+  
+http://geopandas.org/mapping.html  
+=> geopandas 공식 사이트  
