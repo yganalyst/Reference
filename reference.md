@@ -275,3 +275,6 @@ https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/
   
 https://gis.stackexchange.com/questions/253224/geopandas-buffer-using-geodataframe-while-maintaining-the-dataframe  
 => geopandas buffer 쉬운 예제  
+  
+https://gis.stackexchange.com/questions/301251/geopandas-import-csv-make-polygons-from-x-y-coordinates-based-on-id  
+=> 그냥 pandas로 csv 읽어서 mapping을 이용해 geodataframe 생성하기  
