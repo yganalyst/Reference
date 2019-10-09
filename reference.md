@@ -266,3 +266,9 @@ https://gis.stackexchange.com/questions/269243/create-a-polygon-grid-using-with-
   
 https://stackoverflow.com/questions/40818679/geopandas-difference-methode-between-polygon-and-points  
 => geopandas로 한 점에 대한 buffer 생성  
+
+https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
+=> k-means 클러스터링 간단히 구현 방법  
+
+https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/  
+=> k-means 조금 자세한 설명  
