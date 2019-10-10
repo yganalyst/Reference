@@ -281,3 +281,6 @@ https://gis.stackexchange.com/questions/301251/geopandas-import-csv-make-polygon
   
 http://geopandas.org/mapping.html  
 => geopandas 공식 사이트  
+  
+https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas  
+=> 판다스 데이터프레임의 2개 컬럼을 array로 만드는 쉬운방법  
