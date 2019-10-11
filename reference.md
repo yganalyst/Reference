@@ -284,3 +284,7 @@ http://geopandas.org/mapping.html
   
 https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas  
 => 판다스 데이터프레임의 2개 컬럼을 array로 만드는 쉬운방법  
+  
+https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
+=> random.choice로 임의의 값 뽑기(파라미터 조정시)  
+  
