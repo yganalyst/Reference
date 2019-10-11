@@ -288,3 +288,5 @@ https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-col
 https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
 => random.choice로 임의의 값 뽑기(파라미터 조정시)  
   
+https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists  
+=> python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
