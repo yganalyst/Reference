@@ -290,3 +290,6 @@ https://stackoverflow.com/questions/44166555/python-making-random-combinations-o
   
 https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists  
 => python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
+  
+https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-floats-to-2-decimal-places  
+-> 리스트 내의 모든 원소 반올림 함수(round)적용, for문 내포 하면됨  
