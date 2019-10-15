@@ -293,3 +293,6 @@ https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists
   
 https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-floats-to-2-decimal-places  
 -> 리스트 내의 모든 원소 반올림 함수(round)적용, for문 내포 하면됨  
+
+https://gis.stackexchange.com/questions/80881/what-is-unit-of-shapely-length-attribute  
+=> 두 Point간의 직선거리 계산 (shapely)  
