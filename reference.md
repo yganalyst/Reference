@@ -296,3 +296,6 @@ https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-
 
 https://gis.stackexchange.com/questions/80881/what-is-unit-of-shapely-length-attribute  
 => 두 Point간의 직선거리 계산 (shapely)  
+
+https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy  
+=> linear_regression 좀더 자세히  
