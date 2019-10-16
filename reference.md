@@ -299,3 +299,8 @@ https://gis.stackexchange.com/questions/80881/what-is-unit-of-shapely-length-att
 
 https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy  
 => linear_regression 좀더 자세히  
+  
+https://www.geeksforgeeks.org/python-pandas-dataframe-diff/  
+=> 컬럼 또는 행별 전행(열)과의 차이 계산  
+
+
