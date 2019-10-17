@@ -308,3 +308,6 @@ https://stackoverflow.com/questions/11015252/countig-points-in-boxes-of-a-grid
 
 https://gis.stackexchange.com/questions/319546/converting-list-of-polygons-to-multipolygon-using-shapely  
 => 여러개의 폴리곤을 멀티폴리곤으로 만들기  
+
+https://gis.stackexchange.com/questions/322589/rasterizing-polygon-grid-in-python-geopandas-rasterio?noredirect=1&lq=1  
+=> python에서 grid 폴리곤 만들기  
