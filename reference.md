@@ -303,4 +303,5 @@ https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-py
 https://www.geeksforgeeks.org/python-pandas-dataframe-diff/  
 => 컬럼 또는 행별 전행(열)과의 차이 계산  
 
-
+https://stackoverflow.com/questions/11015252/countig-points-in-boxes-of-a-grid  
+=> 2차원 그래프에서 grid를 만들고 해당 grid에 포함된 것 카운팅  
