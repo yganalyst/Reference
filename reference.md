@@ -305,3 +305,6 @@ https://www.geeksforgeeks.org/python-pandas-dataframe-diff/
 
 https://stackoverflow.com/questions/11015252/countig-points-in-boxes-of-a-grid  
 => 2차원 그래프에서 grid를 만들고 해당 grid에 포함된 것 카운팅  
+
+https://gis.stackexchange.com/questions/319546/converting-list-of-polygons-to-multipolygon-using-shapely  
+=> 여러개의 폴리곤을 멀티폴리곤으로 만들기  
