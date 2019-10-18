@@ -311,3 +311,6 @@ https://gis.stackexchange.com/questions/319546/converting-list-of-polygons-to-mu
 
 https://gis.stackexchange.com/questions/322589/rasterizing-polygon-grid-in-python-geopandas-rasterio?noredirect=1&lq=1  
 => python에서 grid 폴리곤 만들기  
+
+https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary  
+=> 딕셔너리에서 value값에 따라 key값 인덱싱 하기  
