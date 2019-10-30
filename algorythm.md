@@ -7,3 +7,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
   
 https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => sklearn decision tree 결정경계 뽑아내기  
+
+https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
+=> DBSCAN 자세한 설명  
