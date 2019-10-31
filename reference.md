@@ -314,3 +314,6 @@ https://gis.stackexchange.com/questions/322589/rasterizing-polygon-grid-in-pytho
 
 https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary  
 => 딕셔너리에서 value값에 따라 key값 인덱싱 하기  
+
+https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-calculated-with-numpy  
+=> 파이썬에서 유클리디안 거리 구하기  
