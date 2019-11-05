@@ -320,3 +320,6 @@ https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-ca
 
 https://stackoverflow.com/questions/38961816/geopandas-set-crs-on-points  
 => geopandas 좌표 정의 및 프로젝션  
+
+https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime  
+=> 날짜계산 ex) 20190701날짜에서 6개월을 뺀 날짜 구하기  
