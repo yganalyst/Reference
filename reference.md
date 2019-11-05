@@ -317,3 +317,6 @@ https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-min
 
 https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-calculated-with-numpy  
 => 파이썬에서 유클리디안 거리 구하기  
+
+https://stackoverflow.com/questions/38961816/geopandas-set-crs-on-points  
+=> geopandas 좌표 정의 및 프로젝션  
