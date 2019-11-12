@@ -326,3 +326,6 @@ https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-month
 
 https://datascience.stackexchange.com/questions/24405/how-to-do-stepwise-regression-using-sklearn  
 => Python에서 stepwise regression 사용자 정의함수 만들기  
+
+https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby  
+=> groupby를 이용해, 그룹별 max 값을 가지는 row 추출하기  
