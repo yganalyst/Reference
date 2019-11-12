@@ -329,3 +329,6 @@ https://datascience.stackexchange.com/questions/24405/how-to-do-stepwise-regress
 
 https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby  
 => groupby를 이용해, 그룹별 max 값을 가지는 row 추출하기  
+  
+https://datascienceschool.net/view-notebook/36176e580d124612a376cf29872cd2f0/  
+=> 다중공선성과 변수선택 in python  
