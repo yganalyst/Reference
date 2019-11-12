@@ -323,3 +323,6 @@ https://stackoverflow.com/questions/38961816/geopandas-set-crs-on-points
 
 https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime  
 => 날짜계산 ex) 20190701날짜에서 6개월을 뺀 날짜 구하기  
+
+https://datascience.stackexchange.com/questions/24405/how-to-do-stepwise-regression-using-sklearn  
+=> Python에서 stepwise regression 사용자 정의함수 만들기  
