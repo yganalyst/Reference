@@ -335,3 +335,6 @@ https://datascienceschool.net/view-notebook/36176e580d124612a376cf29872cd2f0/
   
 https://datascienceschool.net/view-notebook/e6c0d4ff9f4c403c8587c7d394bc930a/  
 => scipy를 이용한 확률분포 (CDF, 누적 확률분포함수 찾다가)  
+  
+https://datascienceschool.net/view-notebook/4d74d1b5651245a7903583f30ae44608/  
+=> 확률밀도함수, 확률분포함수 기초 개념  
