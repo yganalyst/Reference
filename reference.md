@@ -332,3 +332,6 @@ https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-val
   
 https://datascienceschool.net/view-notebook/36176e580d124612a376cf29872cd2f0/  
 => 다중공선성과 변수선택 in python  
+  
+https://datascienceschool.net/view-notebook/e6c0d4ff9f4c403c8587c7d394bc930a/  
+=> scipy를 이용한 확률분포 (CDF, 누적 확률분포함수 찾다가)  
