@@ -10,3 +10,6 @@ https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&prox
 
 https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
 => DBSCAN 자세한 설명  
+  
+https://forensics.tistory.com/19  
+=> 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
