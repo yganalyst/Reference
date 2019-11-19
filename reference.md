@@ -342,4 +342,7 @@ https://datascienceschool.net/view-notebook/4d74d1b5651245a7903583f30ae44608/
 https://gis.stackexchange.com/questions/306674/geopandas-spatial-join-and-count  
 http://geopandas.org/reference/geopandas.sjoin.html  
 => geopandas spatial join  
+
+https://stackoverflow.com/questions/8312829/how-to-remove-item-from-a-python-list-in-a-loop  
+=> 리스트 내의 원소에 조건문 걸기  
   
