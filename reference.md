@@ -347,4 +347,5 @@ https://stackoverflow.com/questions/8312829/how-to-remove-item-from-a-python-lis
 => 리스트 내의 원소에 조건문 걸기  
   
 https://stackoverflow.com/questions/15012228/splitting-on-last-delimiter-in-python-string  
+https://docs.python.org/3/library/stdtypes.html#str.rsplit  
 => split대신 rsplit : 짜를 문자가 여러개겹쳐있을때 두번째 걸로 짜르고 싶을때  
