@@ -13,3 +13,6 @@ https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/
   
 https://forensics.tistory.com/19  
 => 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
+  
+https://m.blog.naver.com/PostView.nhn?blogId=yshmisopia&logNo=60152050508&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> Rtree 구조  
