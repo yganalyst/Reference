@@ -352,3 +352,6 @@ https://docs.python.org/3/library/stdtypes.html#str.rsplit
   
 https://stackoverflow.com/questions/26454649/python-round-up-to-the-nearest-ten  
 => round함수 자연수까지 반올림  
+  
+https://stackoverflow.com/questions/1764309/conditional-counting-in-python  
+=> 리스트 내부에 조건문 걸어서 원소 선택하기?  
