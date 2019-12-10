@@ -358,3 +358,6 @@ https://stackoverflow.com/questions/1764309/conditional-counting-in-python
 
 https://kongdols-room.tistory.com/86  
 => plt.grid()  
+
+https://wikidocs.net/30  
+=> 예외처리  
