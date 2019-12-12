@@ -220,6 +220,7 @@ https://rfriend.tistory.com/411
 -> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
 
 https://stackoverflow.com/questions/15952291/how-to-duplicate-rows-in-pandas-based-on-items-in-a-list  
+https://stackoverflow.com/questions/51443124/duplicate-rows-in-pandas-dataframe-based-on-list-and-fill-new-column-with-list-e  
 -> 데이터프레임 컬럼에 리스트가 있을 때, 이에 맞춰서 행복사 stack!!!!  
   
   
