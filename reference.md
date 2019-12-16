@@ -365,3 +365,6 @@ https://wikidocs.net/30
 
 https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
 => 스크립트 실행 중단시키기, sys.exit()  
+
+https://swalloow.github.io/pandas-parallel    
+=> 판다스 데이터프레임 병렬처리하기 Pool  
