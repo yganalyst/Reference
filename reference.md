@@ -362,3 +362,6 @@ https://kongdols-room.tistory.com/86
 
 https://wikidocs.net/30  
 => 예외처리  
+
+https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
+=> 스크립트 실행 중단시키기, sys.exit()  
