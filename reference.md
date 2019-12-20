@@ -1,15 +1,6 @@
 ## Python 관련해서 참조했던 url을 정리해 두는 공간  
 > 정리좀하자..  
 
-
-https://whatisthenext.tistory.com/116  
--> 파이썬 정규표현식 : re모듈  
-https://wikidocs.net/39  
--> 서적 : 점프 투 파이썬  
-https://wikidocs.net/book/1657  
--> 서적 : 핵심만 간단히, Hellow world! 파이썬 3https://technote.kr/207  
--> os.path의 isdir, isfile 함수 사용방법  
-
 https://bluese05.tistory.com/56  
 -> 파이썬 generator에 대한 상세한 설명  
 https://whatisthenext.tistory.com/114  
@@ -372,3 +363,13 @@ https://stackoverflow.com/questions/36733680/why-pool-map-in-python-doesnt-work
 
 https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
 => 파일 생성일 수정일 알아내기 python  
+
+---
+## 정리 완료  
+https://whatisthenext.tistory.com/116  
+-> 파이썬 정규표현식 : re모듈  
+https://wikidocs.net/39  
+-> 서적 : 점프 투 파이썬  
+https://wikidocs.net/book/1657  
+-> 서적 : 핵심만 간단히, Hellow world! 파이썬 3https://technote.kr/207  
+-> os.path의 isdir, isfile 함수 사용방법  
