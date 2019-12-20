@@ -64,8 +64,6 @@ https://rfriend.tistory.com/276
 -> stack, unstack 함수  
 https://rfriend.tistory.com/278?category=675917  
 -> pd.melt()함수  
-https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
-=> groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
 https://webisfree.com/2019-01-23/python-%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84-%EC%8B%9C%EA%B0%84%EC%9D%84-%EB%85%84%EC%9B%94%EC%9D%BC%EB%A1%9C-%EB%B3%80%ED%99%98%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95  
 => datetime, timestamp 이용방식 (중요)  
 https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas  
@@ -265,6 +263,8 @@ https://stackoverflow.com/questions/51443124/duplicate-rows-in-pandas-dataframe-
 https://stackoverflow.com/questions/15012228/splitting-on-last-delimiter-in-python-string  
 https://docs.python.org/3/library/stdtypes.html#str.rsplit  
 => split대신 rsplit : 짜를 문자가 여러개겹쳐있을때 두번째 걸로 짜르고 싶을때  
+https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
+=> groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
 
 
 ### 기타  
