@@ -1,5 +1,4 @@
-## Python 관련해서 참조했던 url을 정리해 두는 공간  
-> 정리좀하자..  
+## Reference URL    
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
