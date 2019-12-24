@@ -90,7 +90,7 @@ https://itholic.github.io/python-reverse-string/
 => 리스트 거꾸로 출력하기  
 
 
-### Analysis  
+### Algorithm  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
 -> 머신러닝과 사이킷런의 이해 : 개념적인 글 (잘 설명이 되어 있음)  
 https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
