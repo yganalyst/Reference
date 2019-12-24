@@ -86,7 +86,8 @@ https://stackoverflow.com/questions/8312829/how-to-remove-item-from-a-python-lis
 => 리스트 내의 원소에 조건문 걸기  
 https://stackoverflow.com/questions/26454649/python-round-up-to-the-nearest-ten  
 => round함수 자연수까지 반올림  
-
+https://itholic.github.io/python-reverse-string/  
+=> 리스트 거꾸로 출력하기  
 
 
 ### Analysis  
