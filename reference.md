@@ -156,7 +156,8 @@ https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-pyt
 => 스크립트 실행 중단시키기, sys.exit()  
 https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
 => 파일 생성일 수정일 알아내기 python  
-
+https://python.bakyeono.net/chapter-11-5.html   
+=> 웹url 가져오기, json파일 가져오기  
 
 
 
