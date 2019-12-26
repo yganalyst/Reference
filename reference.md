@@ -138,6 +138,8 @@ https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes
 -> y축 두개일때, legend 생성하는 방법  
 https://kongdols-room.tistory.com/86  
 => plt.grid()  
+https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
+=> 막대그래프(bar plot)에 text 표시하기  
 
 
 ### 기타  
