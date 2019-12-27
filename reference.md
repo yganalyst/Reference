@@ -53,6 +53,8 @@ https://stackoverflow.com/questions/38961816/geopandas-set-crs-on-points
 https://gis.stackexchange.com/questions/306674/geopandas-spatial-join-and-count  
 http://geopandas.org/reference/geopandas.sjoin.html  
 => geopandas spatial join  
+https://www.biz-gis.com/index.php?mid=QnA&document_srl=224858   
+=> 좌표계 5174 -> 5179 안맞는 오류  
 
 
 ### data Handling  
