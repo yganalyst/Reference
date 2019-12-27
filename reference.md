@@ -88,7 +88,8 @@ https://stackoverflow.com/questions/26454649/python-round-up-to-the-nearest-ten
 => round함수 자연수까지 반올림  
 https://itholic.github.io/python-reverse-string/  
 => 리스트 거꾸로 출력하기  
-
+https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/4013418  
+=> 글자수 bytes단위로 세기(cp949, utf8등)  
 
 ### Algorithm  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
