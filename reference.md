@@ -112,19 +112,19 @@ https://datascienceschool.net/view-notebook/36176e580d124612a376cf29872cd2f0/
 https://datascienceschool.net/view-notebook/e6c0d4ff9f4c403c8587c7d394bc930a/  
 => scipy를 이용한 확률분포 (CDF, 누적 확률분포함수 찾다가)  
 https://datascienceschool.net/view-notebook/4d74d1b5651245a7903583f30ae44608/  
-=> 확률밀도함수, 확률분포함수 기초 개념  
-https://bcho.tistory.com/1205
-https://untitledtblog.tistory.com/146
-=> DBSCAN (밀도기반 클러스터링)
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
-=> 사이킷런 DBSCAN 설명
-https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&proxyReferer=https%3A%2F%2Fwww.google.com%2F
-=> sklearn decision tree 결정경계 뽑아내기
-https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/
-=> DBSCAN 자세한 설명
-https://forensics.tistory.com/19
-=> 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)
-https://m.blog.naver.com/PostView.nhn?blogId=yshmisopia&logNo=60152050508&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+=> 확률밀도함수, 확률분포함수 기초 개념   
+https://bcho.tistory.com/1205  
+https://untitledtblog.tistory.com/146  
+=> DBSCAN (밀도기반 클러스터링)  
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html  
+=> 사이킷런 DBSCAN 설명  
+https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> sklearn decision tree 결정경계 뽑아내기  
+https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
+=> DBSCAN 자세한 설명  
+https://forensics.tistory.com/19  
+=> 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
+https://m.blog.naver.com/PostView.nhn?blogId=yshmisopia&logNo=60152050508&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => Rtree 구조  
 
 
