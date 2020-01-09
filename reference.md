@@ -146,6 +146,8 @@ https://kongdols-room.tistory.com/86
 => plt.grid()  
 https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
 => 막대그래프(bar plot)에 text 표시하기  
+https://wikidocs.net/4761  
+=> subplot 예시  
 
 
 ### 기타  
