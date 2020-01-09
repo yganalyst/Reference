@@ -92,6 +92,9 @@ https://itholic.github.io/python-reverse-string/
 => 리스트 거꾸로 출력하기  
 https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/4013418  
 => 글자수 bytes단위로 세기(cp949, utf8등)  
+https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
+=> 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
+
 
 ### Algorithm  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
