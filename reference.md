@@ -55,6 +55,8 @@ http://geopandas.org/reference/geopandas.sjoin.html
 => geopandas spatial join  
 https://www.biz-gis.com/index.php?mid=QnA&document_srl=224858   
 => 좌표계 5174 -> 5179 안맞는 오류  
+https://gis.stackexchange.com/questions/299379/superposing-two-plots-with-geopandas-with-non-fill-colours-in-one-of-them  
+=> Geodataframe 여러개의 레이어 겹쳐 그리기  
 
 
 ### data Handling  
