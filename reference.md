@@ -72,24 +72,13 @@ https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-col
 => 판다스 데이터프레임의 2개 컬럼을 array로 만드는 쉬운방법  
 https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists  
 => python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
-https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-floats-to-2-decimal-places  
--> 리스트 내의 모든 원소 반올림 함수(round)적용, for문 내포 하면됨  
 https://www.geeksforgeeks.org/python-pandas-dataframe-diff/  
 => 컬럼 또는 행별 전행(열)과의 차이 계산  
 https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary  
 => 딕셔너리에서 value값에 따라 key값 인덱싱 하기  
 https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-calculated-with-numpy  
 => 파이썬에서 유클리디안 거리 구하기  
-https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime  
-=> 날짜계산 ex) 20190701날짜에서 6개월을 뺀 날짜 구하기  
-https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby  
-=> groupby를 이용해, 그룹별 max 값을 가지는 row 추출하기  
-https://stackoverflow.com/questions/8312829/how-to-remove-item-from-a-python-list-in-a-loop  
-=> 리스트 내의 원소에 조건문 걸기  
-https://stackoverflow.com/questions/26454649/python-round-up-to-the-nearest-ten  
-=> round함수 자연수까지 반올림  
-https://itholic.github.io/python-reverse-string/  
-=> 리스트 거꾸로 출력하기  
+
 https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/4013418  
 => 글자수 bytes단위로 세기(cp949, utf8등)  
 https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
@@ -276,9 +265,22 @@ https://stackoverflow.com/questions/15012228/splitting-on-last-delimiter-in-pyth
 https://docs.python.org/3/library/stdtypes.html#str.rsplit  
 => split대신 rsplit : 짜를 문자가 여러개겹쳐있을때 두번째 걸로 짜르고 싶을때  
 https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
+https://stackoverflow.com/questions/15705630/get-the-rows-which-have-the-max-value-in-groups-using-groupby  
 => groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
 https://wlstnans.tistory.com/101  
 -> if문의 continue와 pass의 차이  
+https://stackoverflow.com/questions/8312829/how-to-remove-item-from-a-python-list-in-a-loop  
+=> 리스트 내의 원소에 조건문 걸기  
+https://stackoverflow.com/questions/546321/how-do-i-calculate-the-date-six-months-from-the-current-date-using-the-datetime  
+=> 날짜계산 ex) 20190701날짜에서 6개월을 뺀 날짜 구하기  
+https://stackoverflow.com/questions/5326112/how-to-round-each-item-in-a-list-of-floats-to-2-decimal-places  
+-> 리스트 내의 모든 원소 반올림 함수(round)적용, for문 내포 하면됨  
+https://stackoverflow.com/questions/26454649/python-round-up-to-the-nearest-ten  
+=> round함수 자연수까지 반올림  
+https://itholic.github.io/python-reverse-string/  
+=> 리스트 거꾸로 출력하기  
+https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
+=> 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
 
 
 ### 기타  
@@ -296,4 +298,5 @@ https://limjunyoung.tistory.com/39
 -> zipfile 모듈 설명 (압축 및 압축 해제하기)  
 https://pinkwink.kr/1021  
 -> glob모듈에 대한 설명  
+
 
