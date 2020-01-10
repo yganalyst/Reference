@@ -60,8 +60,6 @@ https://gis.stackexchange.com/questions/299379/superposing-two-plots-with-geopan
 
 
 ### data Handling  
-https://wlstnans.tistory.com/101  
--> if문의 continue와 pass의 차이  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
 -> 딕셔너리 정렬  
 https://rfriend.tistory.com/276  
@@ -279,6 +277,8 @@ https://docs.python.org/3/library/stdtypes.html#str.rsplit
 => split대신 rsplit : 짜를 문자가 여러개겹쳐있을때 두번째 걸로 짜르고 싶을때  
 https://stackoverflow.com/questions/42267373/python-drop-duplicate-based-on-max-value-of-a-column  
 => groupby이용해서, 특정 컬럼 값이 최대인 행만 남기기  
+https://wlstnans.tistory.com/101  
+-> if문의 continue와 pass의 차이  
 
 
 ### 기타  
