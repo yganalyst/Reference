@@ -78,7 +78,6 @@ https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-min
 => 딕셔너리에서 value값에 따라 key값 인덱싱 하기  
 https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-calculated-with-numpy  
 => 파이썬에서 유클리디안 거리 구하기  
-
 https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/4013418  
 => 글자수 bytes단위로 세기(cp949, utf8등)  
 https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
@@ -158,9 +157,6 @@ https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D
 => 파일 생성일 수정일 알아내기 python  
 https://python.bakyeono.net/chapter-11-5.html   
 => 웹url 가져오기, json파일 가져오기  
-
-
-
 
 
 
