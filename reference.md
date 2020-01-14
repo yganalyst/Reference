@@ -82,6 +82,8 @@ https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/40
 => 글자수 bytes단위로 세기(cp949, utf8등)  
 https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
 => 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
+https://doubly12f.tistory.com/56  
+=> pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
 
 
 ### Algorithm  
