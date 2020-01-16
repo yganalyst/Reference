@@ -123,6 +123,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=yshmisopia&logNo=60152050508&proxyR
 => Rtree 구조  
 https://www.crocus.co.kr/1288  
 => convex hull 알고리즘  
+https://m.blog.naver.com/PostView.nhn?blogId=bloodsoda&logNo=221029163536&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> convex hull 알고리즘 조금 쉬운 설명  
 
 
 ### 시각화  
