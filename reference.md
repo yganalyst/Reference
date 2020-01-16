@@ -127,6 +127,8 @@ https://www.crocus.co.kr/1288
 => convex hull 알고리즘  
 https://m.blog.naver.com/PostView.nhn?blogId=bloodsoda&logNo=221029163536&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => convex hull 알고리즘 조금 쉬운 설명  
+https://stackoverflow.com/questions/28260962/calculating-angles-between-line-segments-python-with-math-atan2  
+=> 두 line 사이의 각도 구하기(math 라이브러리를 이용한, atan, 기울기 활용)  
 
 
 ### 시각화  
