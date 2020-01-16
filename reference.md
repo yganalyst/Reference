@@ -163,7 +163,8 @@ https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D
 => 파일 생성일 수정일 알아내기 python  
 https://python.bakyeono.net/chapter-11-5.html   
 => 웹url 가져오기, json파일 가져오기  
-
+https://pythonhosted.org/planar/polygon.html  
+=> 도형 접선 그릴때 유용한(tangent) planar 라이브러리  
 
 
 ---
