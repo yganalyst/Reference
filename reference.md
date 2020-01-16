@@ -57,6 +57,8 @@ https://www.biz-gis.com/index.php?mid=QnA&document_srl=224858
 => 좌표계 5174 -> 5179 안맞는 오류  
 https://gis.stackexchange.com/questions/299379/superposing-two-plots-with-geopandas-with-non-fill-colours-in-one-of-them  
 => Geodataframe 여러개의 레이어 겹쳐 그리기  
+https://gis.stackexchange.com/questions/342512/intersection-tolerance-error-with-shapely   
+=> Polygon의 각 변(edge)를 linestring으로 뽑아내기  
 
 
 ### data Handling  
