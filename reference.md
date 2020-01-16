@@ -121,6 +121,8 @@ https://forensics.tistory.com/19
 => 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
 https://m.blog.naver.com/PostView.nhn?blogId=yshmisopia&logNo=60152050508&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => Rtree 구조  
+https://www.crocus.co.kr/1288  
+=> convex hull 알고리즘  
 
 
 ### 시각화  
