@@ -61,6 +61,8 @@ https://gis.stackexchange.com/questions/342512/intersection-tolerance-error-with
 => Polygon의 각 변(edge)를 linestring으로 뽑아내기  
 https://stackoverflow.com/questions/24415806/coordinates-of-the-closest-points-of-two-geometries-in-shapely   
 => 가장 가까운 거리에 해당하는 좌표점 구하기  
+https://stackoverflow.com/questions/39338550/cut-a-polygon-with-two-lines-in-shapely  
+=> line으로 polygon 짜르기!!!!!!!!!!  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
