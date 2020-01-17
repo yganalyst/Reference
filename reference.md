@@ -63,6 +63,8 @@ https://stackoverflow.com/questions/24415806/coordinates-of-the-closest-points-o
 => 가장 가까운 거리에 해당하는 좌표점 구하기  
 https://stackoverflow.com/questions/39338550/cut-a-polygon-with-two-lines-in-shapely  
 => line으로 polygon 짜르기!!!!!!!!!!  
+https://gis.stackexchange.com/questions/277334/shapely-polygon-union-results-in-strange-artifacts-of-tiny-non-overlapping-area?rq=1  
+=> shapely로 polygon 결합 (dissolve 하는 방법)  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
