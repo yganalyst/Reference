@@ -71,6 +71,8 @@ https://shapely.readthedocs.io/en/latest/manual.html#object.project
 => interpolate <=> project 함수 설명  
 https://stackoverflow.com/questions/13062334/polygon-intersection-error-in-shapely-shapely-geos-topologicalerror-the-opera  
 => 유효하지 않은 Polygon과 유효한 폴리곤  
+https://stackoverflow.com/questions/31391209/valueerror-no-shapely-geometry-can-be-created-from-null-value  
+=> polygon 두개 union 할때, topology 에러 보완 (buffer를 이용한 보정)  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
