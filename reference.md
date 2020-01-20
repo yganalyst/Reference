@@ -67,6 +67,8 @@ https://gis.stackexchange.com/questions/277334/shapely-polygon-union-results-in-
 => shapely로 polygon 결합 (dissolve 하는 방법)  
 http://geopandas.org/set_operations.html  
 => intersection, union, difference 등 폴리곤 shape 처리 도구 설명  
+https://shapely.readthedocs.io/en/latest/manual.html#object.project  
+=> interpolate <=> project 함수 설명  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
