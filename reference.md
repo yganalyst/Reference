@@ -65,6 +65,8 @@ https://stackoverflow.com/questions/39338550/cut-a-polygon-with-two-lines-in-sha
 => line으로 polygon 짜르기!!!!!!!!!!  
 https://gis.stackexchange.com/questions/277334/shapely-polygon-union-results-in-strange-artifacts-of-tiny-non-overlapping-area?rq=1  
 => shapely로 polygon 결합 (dissolve 하는 방법)  
+http://geopandas.org/set_operations.html  
+=> intersection, union, difference 등 폴리곤 shape 처리 도구 설명  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
