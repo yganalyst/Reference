@@ -69,6 +69,8 @@ http://geopandas.org/set_operations.html
 => intersection, union, difference 등 폴리곤 shape 처리 도구 설명  
 https://shapely.readthedocs.io/en/latest/manual.html#object.project  
 => interpolate <=> project 함수 설명  
+https://stackoverflow.com/questions/13062334/polygon-intersection-error-in-shapely-shapely-geos-topologicalerror-the-opera  
+=> 유효하지 않은 Polygon과 유효한 폴리곤  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
