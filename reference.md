@@ -146,6 +146,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=tobsysco&logNo=90189688655&proxyRef
 => 각도 구하기(tan 수학 이론 설명)  
 https://assortrock.com/7  
 => tan 삼각함수공식 (알아야 이해가능)  
+https://excelsior-cjh.tistory.com/167  
+=> 주성분분석(PCA) 설명 블로그  
 
 
 ### 시각화  
