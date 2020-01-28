@@ -99,6 +99,8 @@ https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-da
 => 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
 https://doubly12f.tistory.com/56  
 => pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
+https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in-a-list  
+=> 1개 리스트에서 원소끼리의 쌍 구하기  
 
 
 ### Algorithm  
@@ -325,5 +327,6 @@ https://limjunyoung.tistory.com/39
 -> zipfile 모듈 설명 (압축 및 압축 해제하기)  
 https://pinkwink.kr/1021  
 -> glob모듈에 대한 설명  
+
 
 
