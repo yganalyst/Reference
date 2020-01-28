@@ -188,7 +188,8 @@ https://python.bakyeono.net/chapter-11-5.html
 => 웹url 가져오기, json파일 가져오기  
 https://pythonhosted.org/planar/polygon.html  
 => 도형 접선 그릴때 유용한(tangent) planar 라이브러리  
-
+https://rfriend.tistory.com/346   
+=> Warning 경고 메세지 숨기기  
 
 ---
 ## 정리 완료  
