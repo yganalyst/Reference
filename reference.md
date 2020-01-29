@@ -150,6 +150,8 @@ https://assortrock.com/7
 => tan 삼각함수공식 (알아야 이해가능)  
 https://excelsior-cjh.tistory.com/167  
 => 주성분분석(PCA) 설명 블로그  
+https://mkjjo.github.io/python/2019/01/10/scaler.html  
+=> scaler  
 
 
 ### 시각화  
