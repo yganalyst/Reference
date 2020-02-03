@@ -154,6 +154,11 @@ https://mkjjo.github.io/python/2019/01/10/scaler.html
 => scaler  
 http://m.blog.daum.net/buillee/626?tp_nil_a=1   
 => 회귀분석에서 잔차 이상치   
+https://datascienceschool.net/view-notebook/6d9c833f132e4e789e35632b49be2c2d/  
+=> 회귀분석에서 레버리지와 아웃라이어  
+https://datascienceschool.net/view-notebook/2787ec5d30664dea850fe0a940e5c1e4/  
+https://datascienceschool.net/view-notebook/3ea68ac37aa846e58a8c330aad0bdbd1/  
+=> python 잔차분석  
 
 
 ### 시각화  
