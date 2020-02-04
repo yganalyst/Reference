@@ -161,6 +161,8 @@ https://datascienceschool.net/view-notebook/3ea68ac37aa846e58a8c330aad0bdbd1/
 => python 잔차분석  
 https://godongyoung.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2018/01/20/ISL-linear-regression_ch3.html  
 => 다중회귀에 대해 쉽게 설명한 블로그  
+https://m.blog.naver.com/PostView.nhn?blogId=kjihoon0914&logNo=221214498142&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> 정규성 가정 검토, Q-Q plot에 대한 설명  
 
 
 ### 시각화  
