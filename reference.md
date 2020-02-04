@@ -159,6 +159,8 @@ https://datascienceschool.net/view-notebook/6d9c833f132e4e789e35632b49be2c2d/
 https://datascienceschool.net/view-notebook/2787ec5d30664dea850fe0a940e5c1e4/  
 https://datascienceschool.net/view-notebook/3ea68ac37aa846e58a8c330aad0bdbd1/  
 => python 잔차분석  
+https://godongyoung.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2018/01/20/ISL-linear-regression_ch3.html  
+=> 다중회귀에 대해 쉽게 설명한 블로그  
 
 
 ### 시각화  
