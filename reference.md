@@ -164,6 +164,8 @@ https://godongyoung.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2018/01/20/IS
 https://m.blog.naver.com/PostView.nhn?blogId=kjihoon0914&logNo=221214498142&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 https://actruce.com/qq-plot/  
 => 정규성 가정 검토, Q-Q plot에 대한 설명  
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779  
+=> 6가지 결측값 대체 알고리즘  
 
 
 ### 시각화  
