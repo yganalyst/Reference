@@ -115,23 +115,6 @@ https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values
 => 6가지 결측값 대체 알고리즘  
 
 
-### 시각화  
-https://wikidocs.net/23258  
--> numpy, matplotlib 히스토그램, 구간값 범주형만들기  
-https://rfriend.tistory.com/411  
--> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
-https://stackoverflow.com/questions/35072400/how-to-set-a-secondary-y-axis-in-python  
--> y축 두개로 그래프 겹쳐 그리는 방법  
-https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
--> y축 두개일때, legend 생성하는 방법  
-https://kongdols-room.tistory.com/86  
-=> plt.grid()  
-https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
-=> 막대그래프(bar plot)에 text 표시하기  
-https://wikidocs.net/4761  
-=> subplot 예시  
-
-
 ### 기타  
 https://data-flair.training/blogs/pandas-function-applications/  
 -> 위 링크에서 발견한 pipe 함수  
