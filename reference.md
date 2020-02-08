@@ -49,30 +49,11 @@ https://doubly12f.tistory.com/56
 => pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
 https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in-a-list  
 => 1개 리스트에서 원소끼리의 쌍 구하기  
-
-### 기타  
 https://data-flair.training/blogs/pandas-function-applications/  
--> 위 링크에서 발견한 pipe 함수  
-http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221056424237&categoryNo=50&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search  
--> sleep함수 (시간을 지연시키져는 함수)  
-http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC  
-https://ssoonidev.tistory.com/71  
-https://myjamong.tistory.com/53  
--> pymysql 모듈, 파이썬 mysql 연동  
+-> pandas pipe 함수 
 https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
 => random.choice로 임의의 값 뽑기(파라미터 조정시)  
-https://wikidocs.net/30  
-=> 예외처리  
-https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
-=> 스크립트 실행 중단시키기, sys.exit()  
-https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
-=> 파일 생성일 수정일 알아내기 python  
-https://python.bakyeono.net/chapter-11-5.html   
-=> 웹url 가져오기, json파일 가져오기  
-https://pythonhosted.org/planar/polygon.html  
-=> 도형 접선 그릴때 유용한(tangent) planar 라이브러리  
-https://rfriend.tistory.com/346   
-=> Warning 경고 메세지 숨기기  
+
 
 ---
 ## 정리 완료  
