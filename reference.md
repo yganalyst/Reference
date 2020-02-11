@@ -53,6 +53,8 @@ https://data-flair.training/blogs/pandas-function-applications/
 -> pandas pipe 함수 
 https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
 => random.choice로 임의의 값 뽑기(파라미터 조정시)  
+https://stackoverflow.com/questions/14320909/efficiently-checking-that-string-consists-of-one-character-in-python  
+=> 문자열이 모두 같은지 체크 (0000000000 등)  
 
 
 ---
