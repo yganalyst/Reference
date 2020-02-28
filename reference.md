@@ -21,6 +21,8 @@ https://swalloow.github.io/pandas-parallel
 https://swalloow.github.io/pandas-parallel    
 https://stackoverflow.com/questions/36733680/why-pool-map-in-python-doesnt-work  
 => 판다스 데이터프레임 병렬처리하기 Pool(커맨드에서 실행해야함)  
+https://stackoverflow.com/questions/39566809/writing-dask-partitions-into-single-file  
+=> dask로 싱글파일 저장  
 
 ### data Handling  
 https://stackoverflow.com/questions/613183/how-do-i-sort-a-dictionary-by-value  
