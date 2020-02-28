@@ -55,7 +55,8 @@ https://stackoverflow.com/questions/44166555/python-making-random-combinations-o
 => random.choice로 임의의 값 뽑기(파라미터 조정시)  
 https://stackoverflow.com/questions/14320909/efficiently-checking-that-string-consists-of-one-character-in-python  
 => 문자열이 모두 같은지 체크 (0000000000 등)  
-
+https://stackoverflow.com/questions/40095712/when-to-applypd-to-numeric-and-when-to-astypenp-float64-in-python  
+=> 문자열을 숫자형 변환할때 문자값 섞여있는 경우, 결측처리  
 
 ---
 ## 정리 완료  
