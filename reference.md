@@ -1,5 +1,8 @@
 ## 1. python  
 
+https://www.slideshare.net/dahlmoon/collections-20160313  
+=> collections 모듈  
+
 ### generator & iterator  
 https://bluese05.tistory.com/56  
 https://whatisthenext.tistory.com/114  
