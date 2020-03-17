@@ -2,6 +2,8 @@
 
 https://www.slideshare.net/dahlmoon/collections-20160313  
 => collections 모듈  
+https://excelsior-cjh.tistory.com/97  
+=> collections 모듈 namedtuple 설명  
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
