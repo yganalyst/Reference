@@ -4,6 +4,9 @@ https://www.slideshare.net/dahlmoon/collections-20160313
 => collections 모듈  
 https://excelsior-cjh.tistory.com/97  
 => collections 모듈 namedtuple 설명  
+https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-lists-in-python   
+=> 대규모 list 연산속도 비교  
+
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
