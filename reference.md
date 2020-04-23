@@ -6,7 +6,8 @@ https://excelsior-cjh.tistory.com/97
 => collections 모듈 namedtuple 설명  
 https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-lists-in-python   
 => 대규모 list 연산속도 비교  
-
+https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0   
+=> 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
