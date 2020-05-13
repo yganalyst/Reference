@@ -70,6 +70,8 @@ https://stackoverflow.com/questions/40095712/when-to-applypd-to-numeric-and-when
 => 문자열을 숫자형 변환할때 문자값 섞여있는 경우, 결측처리  
 https://ghwlchlaks.github.io/permutation-combination-python   
 => 순열조합 경우의 수 구하기, itertools 모듈  
+https://stackoverflow.com/questions/26762100/reconstruct-a-categorical-variable-from-dummies-in-pandas  
+=> dummy를 다시 categorical 변수로 변경하기  
 
 
 ---
