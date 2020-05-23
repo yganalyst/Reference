@@ -1,4 +1,4 @@
-## 1. python  
+## 정리 미완료   
 
 https://www.slideshare.net/dahlmoon/collections-20160313  
 => collections 모듈  
@@ -8,6 +8,16 @@ https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-l
 => 대규모 list 연산속도 비교  
 https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0   
 => 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
+http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221056424237&categoryNo=50&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search  
+-> sleep함수 (시간을 지연시키져는 함수)  
+https://wikidocs.net/30  
+=> 예외처리  
+https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
+=> 스크립트 실행 중단시키기, sys.exit()  
+https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
+=> 파일 생성일 수정일 알아내기 python  
+https://rfriend.tistory.com/346  
+=> Warning 경고 메세지 숨기기  
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
@@ -72,6 +82,174 @@ https://ghwlchlaks.github.io/permutation-combination-python
 => 순열조합 경우의 수 구하기, itertools 모듈  
 https://stackoverflow.com/questions/26762100/reconstruct-a-categorical-variable-from-dummies-in-pandas  
 => dummy를 다시 categorical 변수로 변경하기  
+
+### web
+https://victorydntmd.tistory.com/245   
+-> BeautifulSoup을 사용한 HTML파싱 및 크롤링,   
+페이지를 넘기거나 할때 URL에 표시되지 않는경우(JavaScript코드로 실행되는 것, 개발자도구에서 html및java코드 뜯어보기)  
+https://www.fun-coding.org/crawl_basic3.html  
+-> 네이버 크롤링 및 api  
+https://webnautes.tistory.com/779  
+-> 교보문고 페이지 크롤링  
+https://bable.tistory.com/866  
+=> 셀레니움 검색어 입력  
+https://www.it-swarm.asia/ko/python/%EC%85%80%EB%A0%88%EB%8A%84%EC%9C%BC%EB%A1%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%A7%80%EC%9A%B0%EA%B8%B0/939815185/  
+=> 셀레니움 기존 텍스트 지우기  
+https://mycup.tistory.com/269  
+=> 셀레니움 기초 설명 (checkbox 클릭)  
+https://www.fun-coding.org/crawl_advance5.html  
+=> 셀레니움 xpath 사용법  
+https://sqa.stackexchange.com/questions/1355/what-is-the-correct-way-to-select-an-option-using-seleniums-python-webdriver  
+=> 셀레니움 드랍다운 목록(옵션) 선택  
+https://stackoverflow.com/questions/7263824/get-html-source-of-webelement-in-selenium-webdriver-using-python  
+=> 셀레니움 특정 element내에서만 parsing 하기  
+http://blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221430636045&categoryNo=0&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=postView  
+=> 셀레니움 send_keys에 엔터를 보내면 검색가능  
+https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221185808375&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> User Agent  
+https://stackoverflow.com/questions/2506379/add-params-to-given-url-in-python  
+=> url에 params 추가하기  
+
+### visualization  
+https://wikidocs.net/23258  
+-> numpy, matplotlib 히스토그램, 구간값 범주형만들기  
+https://rfriend.tistory.com/411  
+-> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
+https://stackoverflow.com/questions/35072400/how-to-set-a-secondary-y-axis-in-python  
+-> y축 두개로 그래프 겹쳐 그리는 방법  
+https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
+-> y축 두개일때, legend 생성하는 방법  
+https://kongdols-room.tistory.com/86  
+=> plt.grid()  
+https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
+=> 막대그래프(bar plot)에 text 표시하기  
+https://wikidocs.net/4761  
+=> subplot 예시  
+http://omz-software.com/pythonista/matplotlib/users/tight_layout_guide.html  
+=> subplot 겹치는 문제 해결  
+https://matplotlib.org/gallery/lines_bars_and_markers/barh.html  
+=> bar plot 회전시키기  
+https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f  
+=> correlation plot 그리기 팁 (axis -1 ~ 1)  
+https://datascienceschool.net/view-notebook/4c2d5ff1caab4b21a708cc662137bc65/  
+=> 기초  
+
+### 통계  
+
+https://www.slideshare.net/ssuserd6c109/ss-125788862  
+-> 머신러닝과 사이킷런의 이해 : 개념적인 글 (잘 설명이 되어 있음)  
+https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
+=> k-means 클러스터링 간단히 구현 방법  
+https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/  
+=> k-means 조금 자세한 설명  
+https://www.codeit.kr/questions/7823  
+https://pinkwink.kr/1127  
+=> 추세선 그리기 (날짜가 X일때는 위의 timestamp를 이용해야함)  
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html  
+=> np.polyfit 함수 : 최소제곱법을 이용한 회귀식(추세선) 
+https://stackoverflow.com/questions/893657/how-do-i-calculate-r-squared-using-python-and-numpy  
+=> linear_regression 좀더 자세히  
+https://datascience.stackexchange.com/questions/24405/how-to-do-stepwise-regression-using-sklearn  
+=> Python에서 stepwise regression 사용자 정의함수 만들기  
+https://datascienceschool.net/view-notebook/36176e580d124612a376cf29872cd2f0/  
+=> 다중공선성과 변수선택 in python  
+https://datascienceschool.net/view-notebook/e6c0d4ff9f4c403c8587c7d394bc930a/  
+=> scipy를 이용한 확률분포 (CDF, 누적 확률분포함수 찾다가)  
+https://datascienceschool.net/view-notebook/4d74d1b5651245a7903583f30ae44608/  
+=> 확률밀도함수, 확률분포함수 기초 개념   
+https://bcho.tistory.com/1205  
+https://untitledtblog.tistory.com/146  
+=> DBSCAN (밀도기반 클러스터링)  
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html  
+=> 사이킷런 DBSCAN 설명  
+https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> sklearn decision tree 결정경계 뽑아내기  
+https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
+=> DBSCAN 자세한 설명  
+https://forensics.tistory.com/19  
+=> 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
+https://excelsior-cjh.tistory.com/167  
+=> 주성분분석(PCA) 설명 블로그  
+https://mkjjo.github.io/python/2019/01/10/scaler.html  
+=> scaler  
+http://m.blog.daum.net/buillee/626?tp_nil_a=1   
+=> 회귀분석에서 잔차 이상치   
+https://datascienceschool.net/view-notebook/6d9c833f132e4e789e35632b49be2c2d/  
+=> 회귀분석에서 레버리지와 아웃라이어  
+https://datascienceschool.net/view-notebook/2787ec5d30664dea850fe0a940e5c1e4/  
+https://datascienceschool.net/view-notebook/3ea68ac37aa846e58a8c330aad0bdbd1/  
+=> python 잔차분석  
+https://godongyoung.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/2018/01/20/ISL-linear-regression_ch3.html  
+=> 다중회귀에 대해 쉽게 설명한 블로그  
+https://m.blog.naver.com/PostView.nhn?blogId=kjihoon0914&logNo=221214498142&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+https://actruce.com/qq-plot/  
+=> 정규성 가정 검토, Q-Q plot에 대한 설명  
+https://stats.stackexchange.com/questions/240659/qq-plot-reference-line-not-45   
+=> Q-Q Plot에서 직선이 45도가 아닐 수도 있는 이유  
+https://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot  
+=> Q-Q plot 해석  
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779  
+=> 6가지 결측값 대체 알고리즘  
+
+### 공간분석 알고리즘  
+http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
+-> Identifying urban zones with spectral clustering
+http://geologyandpython.com/dem-processing.html
+-> terrian analysis
+https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html
+https://www.sigterritoires.fr/index.php/en/geometry-validation-tools-5-with-qgis/
+https://www.youtube.com/watch?v=8hVcJ-QIqmU
+-> topology 에러 처리
+http://www.biz-gis.com/index.php?mid=QnA&document_srl=55279
+=> 고도 경사분석
+https://m.blog.naver.com/PostView.nhn?blogId=sdyeom61&logNo=221338669620&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+=> 경사도 계산 수식
+https://woowabros.github.io/experience/2019/02/07/real-distance-finder.html
+=> 배민 경로 분석(hexagon-grid, 휴리스틱)  
+http://www.mpia.de/~dgoulier/MLClasses/Astro-Tutorial%20-%20Contour-Based%20Clustering%20Analysis%20in%20R.html
+=> contour based clustering (KDE, etc..) 
+https://www.redblobgames.com/grids/hexagons/#conversions-doubled  
+=> a star algorithm  
+https://github.com/RedFT/Hexy  
+=> a star algorithm 파이썬 코드  
+https://medium.com/@navaneeth.mohan94/how-to-create-a-hex-map-in-python-3f84602edb14   
+=> 파이썬으로 hexagon grid 만들기  
+https://stackoverflow.com/questions/46525981/how-to-plot-x-y-z-coordinates-in-the-shape-of-a-hexagonal-grid  
+=> 파이썬으로 hexagon grid 만들기2  
+https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2  
+=> python a star 알고리즘 쉬운 설명  
+
+### 텐서플로우  
+https://stackoverflow.com/questions/55142951/tensorflow-2-0-attributeerror-module-tensorflow-has-no-attribute-session  
+=> tf.Session 버전관리 문제  
+
+### 케라스(딥러닝)  
+https://brunch.co.kr/@chris-song/34  
+=> 다양한 loss function 회귀 문제에서  
+https://snowdeer.github.io/machine-learning/2018/01/09/find-best-model/  
+=> 콜백함수  
+
+### API  
+https://logical-code.tistory.com/116  
+https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html  
+https://mangkyu.tistory.com/46  
+=> rest api 개념 소개  
+https://juso.go.kr/addrlink/devCenterEventBoardDetail.do?regSn=79&noticeType=T  
+=> 도로명주소 api 샘플소스  
+https://mangkyu.tistory.com/17?category=761303  
+=> 호출방식 GET과 POST에 대한 개념  
+https://twpower.github.io/124-python-requests-usage  
+=> json 요청 및 파싱  
+https://dgkim5360.tistory.com/entry/python-requests  
+=> request 모듈  
+https://python.bakyeono.net/chapter-11-5.html   
+=> 웹url 가져오기, json파일 가져오기  
+
+### SQL  
+http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC
+https://ssoonidev.tistory.com/71
+https://myjamong.tistory.com/53
+-> pymysql 모듈, 파이썬 mysql 연동
 
 
 ---
@@ -208,6 +386,4 @@ https://limjunyoung.tistory.com/39
 -> zipfile 모듈 설명 (압축 및 압축 해제하기)  
 https://pinkwink.kr/1021  
 -> glob모듈에 대한 설명  
-
-
 
