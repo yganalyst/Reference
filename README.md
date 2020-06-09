@@ -133,6 +133,8 @@ https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seabo
 => correlation plot 그리기 팁 (axis -1 ~ 1)  
 https://datascienceschool.net/view-notebook/4c2d5ff1caab4b21a708cc662137bc65/  
 => 기초  
+https://stackoverflow.com/questions/24183101/pandas-bar-plot-with-two-bars-and-two-y-axis  
+-> 두개 데이터 bar plot y축 두개  
 
 ### 통계  
 
