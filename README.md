@@ -139,7 +139,6 @@ https://python-graph-gallery.com/390-basic-radar-chart/
 -> Radar 차트 그리기(클러스터링하고 활용할때)  
 
 ### 통계  
-
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
 -> 머신러닝과 사이킷런의 이해 : 개념적인 글 (잘 설명이 되어 있음)  
 https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
@@ -194,6 +193,8 @@ https://stats.stackexchange.com/questions/101274/how-to-interpret-a-qq-plot
 => Q-Q plot 해석  
 https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779  
 => 6가지 결측값 대체 알고리즘  
+https://ellun.tistory.com/105   
+=> 계층적, 비계층적 군집분석의 차이에 대한 설명  
 
 ### 공간분석 알고리즘  
 http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
