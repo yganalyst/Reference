@@ -18,6 +18,8 @@ https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D
 => 파일 생성일 수정일 알아내기 python  
 https://rfriend.tistory.com/346  
 => Warning 경고 메세지 숨기기  
+https://gomguard.tistory.com/122
+=> try, except, else, finally 개념 설명
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
