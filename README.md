@@ -8,16 +8,11 @@ https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-l
 => 대규모 list 연산속도 비교  
 https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0   
 => 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
-http://blog.naver.com/PostView.nhn?blogId=tipsware&logNo=221056424237&categoryNo=50&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=1&from=search  
--> sleep함수 (시간을 지연시키져는 함수)  
-https://wikidocs.net/30  
-=> 예외처리  
 https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
 => 스크립트 실행 중단시키기, sys.exit()  
 https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
 => 파일 생성일 수정일 알아내기 python  
-https://gomguard.tistory.com/122
-=> try, except, else, finally 개념 설명
+
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
@@ -34,12 +29,7 @@ https://github.com/dask/dask-tutorial
 https://gist.github.com/hussainsultan/f7c2fb9f11008123bda405c5b024a79f  
 -> dask 데이터프레임 to_csv 하는 예제  
 https://towardsdatascience.com/why-every-data-scientist-should-use-dask-81b2b850e15b  
--> dask 튜토리얼 블로그  
-https://swalloow.github.io/pandas-parallel  
--> Pandas DataFrame을 병렬처리 하는 설명(한글) : Pool 함수  
-https://swalloow.github.io/pandas-parallel    
-https://stackoverflow.com/questions/36733680/why-pool-map-in-python-doesnt-work  
-=> 판다스 데이터프레임 병렬처리하기 Pool(커맨드에서 실행해야함)  
+-> dask 튜토리얼 블로그   
 https://stackoverflow.com/questions/39566809/writing-dask-partitions-into-single-file  
 => dask로 싱글파일 저장  
 
@@ -375,6 +365,11 @@ https://itholic.github.io/python-reverse-string/
 https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
 => 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
 
+### 병렬처리  
+https://swalloow.github.io/pandas-parallel    
+https://stackoverflow.com/questions/36733680/why-pool-map-in-python-doesnt-work  
+=> 판다스 데이터프레임 병렬처리하기 Pool(커맨드에서 실행해야함)  
+
 
 ### 기타  
 https://codeday.me/ko/qa/20190318/92935.html  
@@ -391,4 +386,6 @@ https://limjunyoung.tistory.com/39
 -> zipfile 모듈 설명 (압축 및 압축 해제하기)  
 https://pinkwink.kr/1021  
 -> glob모듈에 대한 설명  
-
+https://gomguard.tistory.com/122  
+https://wikidocs.net/30   
+=> try, except, else, finally 개념 설명
