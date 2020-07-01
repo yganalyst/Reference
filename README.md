@@ -72,6 +72,8 @@ https://ghwlchlaks.github.io/permutation-combination-python
 => 순열조합 경우의 수 구하기, itertools 모듈  
 https://stackoverflow.com/questions/26762100/reconstruct-a-categorical-variable-from-dummies-in-pandas  
 => dummy를 다시 categorical 변수로 변경하기  
+https://stackoverflow.com/questions/42137529/pandas-find-first-non-null-value-in-column  
+=> 처음으로 결측(nan)값이 나오는 index추출하기  
 
 ### web
 https://victorydntmd.tistory.com/245   
