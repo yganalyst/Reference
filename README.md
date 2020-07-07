@@ -74,6 +74,9 @@ https://stackoverflow.com/questions/26762100/reconstruct-a-categorical-variable-
 => dummy를 다시 categorical 변수로 변경하기  
 https://stackoverflow.com/questions/42137529/pandas-find-first-non-null-value-in-column  
 => 처음으로 결측(nan)값이 나오는 index추출하기  
+https://kyubot.tistory.com/113  
+=> 괄호 안에 문자열 추출  
+
 
 ### web
 https://victorydntmd.tistory.com/245   
