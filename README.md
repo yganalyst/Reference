@@ -191,6 +191,9 @@ https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values
 => 6가지 결측값 대체 알고리즘  
 https://ellun.tistory.com/105   
 => 계층적, 비계층적 군집분석의 차이에 대한 설명  
+https://stackoverflow.com/questions/38780302/predicting-new-data-using-sklearn-after-standardizing-the-training-data  
+=> 학습시의 scaling한 값(평균,표준편차 등)을 저장해두고 새로운 데이터 적합 시 사용  
+
 
 ### 공간분석 알고리즘  
 http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
