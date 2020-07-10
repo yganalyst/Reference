@@ -193,6 +193,9 @@ https://ellun.tistory.com/105
 => 계층적, 비계층적 군집분석의 차이에 대한 설명  
 https://stackoverflow.com/questions/38780302/predicting-new-data-using-sklearn-after-standardizing-the-training-data  
 => 학습시의 scaling한 값(평균,표준편차 등)을 저장해두고 새로운 데이터 적합 시 사용  
+https://datascienceschool.net/view-notebook/731e0d2ef52c41c686ba53dcaf346f32/  
+https://pinkwink.kr/1128  
+=> 분류 알고리즘 성능평가(precision, recall, F1-score), Logistic Regression  
 
 
 ### 공간분석 알고리즘  
