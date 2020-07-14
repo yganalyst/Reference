@@ -251,6 +251,8 @@ https://dgkim5360.tistory.com/entry/python-requests
 => request 모듈  
 https://python.bakyeono.net/chapter-11-5.html   
 => 웹url 가져오기, json파일 가져오기  
+https://overcode.tistory.com/entry/HTML-Encoding-ReferenceURL-%EC%9D%B8%EC%BD%94%EB%94%A9%EC%9D%84-%EC%95%84%EC%8A%A4%ED%82%A4-%EB%AC%B8%EC%9E%90%EB%A1%9C-%EB%B3%80%ED%99%98  
+=> URL 인코딩 아스키 문자 변환표  
 
 ### SQL  
 http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC
