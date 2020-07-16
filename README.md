@@ -133,6 +133,8 @@ https://stackoverflow.com/questions/24183101/pandas-bar-plot-with-two-bars-and-t
 -> 두개 데이터 bar plot y축 두개  
 https://python-graph-gallery.com/390-basic-radar-chart/  
 -> Radar 차트 그리기(클러스터링하고 활용할때)  
+https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib  
+-> plt.grid() : x축 또는 y축 grid만 그리기  
 
 ### 통계  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
