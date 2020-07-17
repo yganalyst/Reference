@@ -135,6 +135,8 @@ https://python-graph-gallery.com/390-basic-radar-chart/
 -> Radar 차트 그리기(클러스터링하고 활용할때)  
 https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib  
 -> plt.grid() : x축 또는 y축 grid만 그리기  
+https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib  
+-> scatter plot density에 대한 표현  
 
 ### 통계  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
