@@ -10,9 +10,10 @@ https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%
 => 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
 https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
 => 스크립트 실행 중단시키기, sys.exit()  
-https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
+https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95 
 => 파일 생성일 수정일 알아내기 python  
-
+https://pinocc.tistory.com/175  
+=> if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
