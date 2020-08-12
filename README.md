@@ -79,6 +79,8 @@ https://kyubot.tistory.com/113
 => 괄호 안에 문자열 추출  
 https://stackoverflow.com/questions/17321138/one-line-list-comprehension-if-else-variants   
 => one line for문 if-else문, else까지 쓸때는 앞으로 뺴줘야함***  
+https://stackoverflow.com/questions/17063458/reading-an-excel-file-in-python-using-pandas  
+=> excel 파일 sheet 식별해서 read하기  
 
 ### web
 https://victorydntmd.tistory.com/245   
