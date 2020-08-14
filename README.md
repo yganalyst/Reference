@@ -212,18 +212,18 @@ http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
 -> Identifying urban zones with spectral clustering
 http://geologyandpython.com/dem-processing.html
 -> terrian analysis
-https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html
-https://www.sigterritoires.fr/index.php/en/geometry-validation-tools-5-with-qgis/
-https://www.youtube.com/watch?v=8hVcJ-QIqmU
--> topology 에러 처리
-http://www.biz-gis.com/index.php?mid=QnA&document_srl=55279
-=> 고도 경사분석
-https://m.blog.naver.com/PostView.nhn?blogId=sdyeom61&logNo=221338669620&proxyReferer=https%3A%2F%2Fwww.google.com%2F
-=> 경사도 계산 수식
-https://woowabros.github.io/experience/2019/02/07/real-distance-finder.html
+https://www.geodose.com/2017/10/how-to-clean-topology-error-in-qgis.html  
+https://www.sigterritoires.fr/index.php/en/geometry-validation-tools-5-with-qgis/  
+https://www.youtube.com/watch?v=8hVcJ-QIqmU  
+-> topology 에러 처리  
+http://www.biz-gis.com/index.php?mid=QnA&document_srl=55279  
+=> 고도 경사분석  
+https://m.blog.naver.com/PostView.nhn?blogId=sdyeom61&logNo=221338669620&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
+=> 경사도 계산 수식  
+https://woowabros.github.io/experience/2019/02/07/real-distance-finder.html  
 => 배민 경로 분석(hexagon-grid, 휴리스틱)  
-http://www.mpia.de/~dgoulier/MLClasses/Astro-Tutorial%20-%20Contour-Based%20Clustering%20Analysis%20in%20R.html
-=> contour based clustering (KDE, etc..) 
+http://www.mpia.de/~dgoulier/MLClasses/Astro-Tutorial%20-%20Contour-Based%20Clustering%20Analysis%20in%20R.html  
+=> contour based clustering (KDE, etc..)  
 https://www.redblobgames.com/grids/hexagons/#conversions-doubled  
 => a star algorithm  
 https://github.com/RedFT/Hexy  
