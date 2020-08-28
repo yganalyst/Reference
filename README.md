@@ -205,7 +205,8 @@ https://stackoverflow.com/questions/38780302/predicting-new-data-using-sklearn-a
 https://datascienceschool.net/view-notebook/731e0d2ef52c41c686ba53dcaf346f32/  
 https://pinkwink.kr/1128  
 => 분류 알고리즘 성능평가(precision, recall, F1-score), Logistic Regression  
-
+https://frhyme.github.io/python/randomwalk/  
+=> Random Walk 개념 및 예제  
 
 ### 공간분석 알고리즘  
 http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
