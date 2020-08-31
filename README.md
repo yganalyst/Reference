@@ -14,6 +14,8 @@ https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D
 => 파일 생성일 수정일 알아내기 python  
 https://pinocc.tistory.com/175  
 => if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
+https://lactea.kr/entry/python-%E2%80%93-sha256-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-%EB%B3%B5%ED%98%B8%ED%99%94  
+=> 해시 알고리즘 및 sha256  
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
@@ -207,6 +209,8 @@ https://pinkwink.kr/1128
 => 분류 알고리즘 성능평가(precision, recall, F1-score), Logistic Regression  
 https://frhyme.github.io/python/randomwalk/  
 => Random Walk 개념 및 예제  
+https://datascienceschool.net/view-notebook/4642b9f187784444b8f3a8309c583007/  
+=> 최적화 문제  
 
 ### 공간분석 알고리즘  
 http://kuanbutts.com/2017/10/21/spectral-cluster-berkeley/
