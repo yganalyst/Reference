@@ -249,6 +249,8 @@ https://brunch.co.kr/@chris-song/34
 => 다양한 loss function 회귀 문제에서  
 https://snowdeer.github.io/machine-learning/2018/01/09/find-best-model/  
 => 콜백함수  
+https://an-seunghwan.github.io/tensorflow%202.0/Custom-modeling-with-Keras-(1)/  
+=> custom layer 만들기  
 
 ### API  
 https://logical-code.tistory.com/116  
