@@ -251,6 +251,10 @@ https://snowdeer.github.io/machine-learning/2018/01/09/find-best-model/
 => 콜백함수  
 https://an-seunghwan.github.io/tensorflow%202.0/Custom-modeling-with-Keras-(1)/  
 => custom layer 만들기  
+https://stackoverflow.com/questions/52800025/keras-give-input-to-intermediate-layer-and-get-final-output  
+=> 중간 layer에 input 넣고 output 출력하기(1개 layer만 가능)  
+https://stackoverflow.com/questions/41711190/keras-how-to-get-the-output-of-each-layer  
+=> 각 layer의 output 출력 (가장 처음 input 넣고)  
 
 ### API  
 https://logical-code.tistory.com/116  
