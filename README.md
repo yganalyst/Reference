@@ -111,39 +111,6 @@ https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221185808375&prox
 https://stackoverflow.com/questions/2506379/add-params-to-given-url-in-python  
 => url에 params 추가하기  
 
-### visualization  
-https://wikidocs.net/23258  
--> numpy, matplotlib 히스토그램, 구간값 범주형만들기  
-https://rfriend.tistory.com/411  
--> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
-https://stackoverflow.com/questions/35072400/how-to-set-a-secondary-y-axis-in-python  
--> y축 두개로 그래프 겹쳐 그리는 방법  
-https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
--> y축 두개일때, legend 생성하는 방법  
-https://kongdols-room.tistory.com/86  
-=> plt.grid()  
-https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
-=> 막대그래프(bar plot)에 text 표시하기  
-https://wikidocs.net/4761  
-=> subplot 예시  
-http://omz-software.com/pythonista/matplotlib/users/tight_layout_guide.html  
-=> subplot 겹치는 문제 해결  
-https://matplotlib.org/gallery/lines_bars_and_markers/barh.html  
-=> bar plot 회전시키기  
-https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f  
-=> correlation plot 그리기 팁 (axis -1 ~ 1)  
-https://datascienceschool.net/view-notebook/4c2d5ff1caab4b21a708cc662137bc65/  
-=> 기초  
-https://stackoverflow.com/questions/24183101/pandas-bar-plot-with-two-bars-and-two-y-axis  
--> 두개 데이터 bar plot y축 두개  
-https://python-graph-gallery.com/390-basic-radar-chart/  
--> Radar 차트 그리기(클러스터링하고 활용할때)  
-https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib  
--> plt.grid() : x축 또는 y축 grid만 그리기  
-https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib  
--> scatter plot density에 대한 표현  
-https://stackoverflow.com/questions/10101700/moving-matplotlib-legend-outside-of-the-axis-makes-it-cutoff-by-the-figure-box  
--> 범례 위치 조정하기, bbox_to_anchor 옵션  
 
 ### 통계  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
@@ -404,7 +371,41 @@ https://swalloow.github.io/pandas-parallel
 https://stackoverflow.com/questions/36733680/why-pool-map-in-python-doesnt-work  
 => 판다스 데이터프레임 병렬처리하기 Pool(커맨드에서 실행해야함)  
 
+### visualization  
+https://wikidocs.net/23258  
+-> numpy, matplotlib 히스토그램, 구간값 범주형만들기  
+https://rfriend.tistory.com/411  
+-> 파이썬 막대그래프 모든 것 matplotlib.pyplot 활용 자세하게 다 되어 있음  
+https://stackoverflow.com/questions/35072400/how-to-set-a-secondary-y-axis-in-python  
+-> y축 두개로 그래프 겹쳐 그리는 방법  
+https://stackoverflow.com/questions/14344063/single-legend-for-multiple-axes  
+-> y축 두개일때, legend 생성하는 방법  
+https://kongdols-room.tistory.com/86  
+=> plt.grid()  
+https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh  
+=> 막대그래프(bar plot)에 text 표시하기  
+https://wikidocs.net/4761  
+=> subplot 예시  
+http://omz-software.com/pythonista/matplotlib/users/tight_layout_guide.html  
+=> subplot 겹치는 문제 해결  
+https://matplotlib.org/gallery/lines_bars_and_markers/barh.html  
+=> bar plot 회전시키기  
+https://towardsdatascience.com/formatting-tips-for-correlation-heatmaps-in-seaborn-4478ef15d87f  
+=> correlation plot 그리기 팁 (axis -1 ~ 1)  
+https://datascienceschool.net/view-notebook/4c2d5ff1caab4b21a708cc662137bc65/  
+=> 기초  
+https://stackoverflow.com/questions/24183101/pandas-bar-plot-with-two-bars-and-two-y-axis  
+-> 두개 데이터 bar plot y축 두개  
+https://python-graph-gallery.com/390-basic-radar-chart/  
+-> Radar 차트 그리기(클러스터링하고 활용할때)  
+https://stackoverflow.com/questions/16074392/getting-vertical-gridlines-to-appear-in-line-plot-in-matplotlib  
+-> plt.grid() : x축 또는 y축 grid만 그리기  
+https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-colored-by-density-in-matplotlib  
+-> scatter plot density에 대한 표현  
+https://stackoverflow.com/questions/10101700/moving-matplotlib-legend-outside-of-the-axis-makes-it-cutoff-by-the-figure-box  
+-> 범례 위치 조정하기, bbox_to_anchor 옵션  
 
+  
 ### 기타  
 https://codeday.me/ko/qa/20190318/92935.html  
 -> 난수 발생시, 시드를 설정하는 이유 : np.random.seed(0)  
