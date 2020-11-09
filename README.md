@@ -47,8 +47,6 @@ https://webisfree.com/2019-01-23/python-%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%
 => datetime, timestamp 이용방식 (중요)  
 https://stackoverflow.com/questions/43160575/how-to-create-an-array-from-two-columns-in-pandas  
 => 판다스 데이터프레임의 2개 컬럼을 array로 만드는 쉬운방법  
-https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists  
-=> python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
 https://www.geeksforgeeks.org/python-pandas-dataframe-diff/  
 => 컬럼 또는 행별 전행(열)과의 차이 계산  
 https://stackoverflow.com/questions/3282823/get-the-key-corresponding-to-the-minimum-value-within-a-dictionary  
@@ -61,8 +59,6 @@ https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-da
 => 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
 https://doubly12f.tistory.com/56  
 => pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
-https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in-a-list  
-=> 1개 리스트에서 원소끼리의 쌍 구하기  
 https://data-flair.training/blogs/pandas-function-applications/  
 -> pandas pipe 함수 
 https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
@@ -71,8 +67,6 @@ https://stackoverflow.com/questions/14320909/efficiently-checking-that-string-co
 => 문자열이 모두 같은지 체크 (0000000000 등)  
 https://stackoverflow.com/questions/40095712/when-to-applypd-to-numeric-and-when-to-astypenp-float64-in-python  
 => 문자열을 숫자형 변환할때 문자값 섞여있는 경우, 결측처리  
-https://ghwlchlaks.github.io/permutation-combination-python   
-=> 순열조합 경우의 수 구하기, itertools 모듈  
 https://stackoverflow.com/questions/26762100/reconstruct-a-categorical-variable-from-dummies-in-pandas  
 => dummy를 다시 categorical 변수로 변경하기  
 https://stackoverflow.com/questions/42137529/pandas-find-first-non-null-value-in-column  
@@ -424,3 +418,9 @@ https://pinkwink.kr/1021
 https://gomguard.tistory.com/122  
 https://wikidocs.net/30   
 => try, except, else, finally 개념 설명
+https://ghwlchlaks.github.io/permutation-combination-python   
+=> 순열조합 경우의 수 구하기, itertools 모듈  
+https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists  
+=> python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
+https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in-a-list  
+=> 1개 리스트에서 원소끼리의 쌍 구하기  
