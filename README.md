@@ -10,7 +10,7 @@ https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%
 => 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
 https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
 => 스크립트 실행 중단시키기, sys.exit()  
-https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95 
+https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
 => 파일 생성일 수정일 알아내기 python  
 https://pinocc.tistory.com/175  
 => if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
@@ -57,8 +57,6 @@ https://stackoverflow.com/questions/4013230/how-many-bytes-does-a-string-have/40
 => 글자수 bytes단위로 세기(cp949, utf8등)  
 https://stackoverflow.com/questions/16096627/selecting-a-row-of-pandas-series-dataframe-by-integer-index  
 => 데이터 프레임 1row 데이터프레임 type으로 선택하기(not 시리즈)  
-https://doubly12f.tistory.com/56  
-=> pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
 https://data-flair.training/blogs/pandas-function-applications/  
 -> pandas pipe 함수 
 https://stackoverflow.com/questions/44166555/python-making-random-combinations-of-values-from-two-lists  
@@ -424,3 +422,6 @@ https://stackoverflow.com/questions/798854/all-combinations-of-a-list-of-lists
 => python에서 3개의 리스트의 각각의 모든 경우의수 구하기  
 https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in-a-list  
 => 1개 리스트에서 원소끼리의 쌍 구하기  
+https://doubly12f.tistory.com/56  
+=> pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
+
