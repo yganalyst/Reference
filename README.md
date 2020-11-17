@@ -102,7 +102,8 @@ https://m.blog.naver.com/PostView.nhn?blogId=kiddwannabe&logNo=221185808375&prox
 => User Agent  
 https://stackoverflow.com/questions/2506379/add-params-to-given-url-in-python  
 => url에 params 추가하기  
-
+https://github.com/pandas-dev/pandas/issues/10534  
+=> read_html 데이터 타입 설정, converters옵션  
 
 ### 통계  
 https://www.slideshare.net/ssuserd6c109/ss-125788862  
