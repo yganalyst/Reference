@@ -16,6 +16,8 @@ https://pinocc.tistory.com/175
 => if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
 https://lactea.kr/entry/python-%E2%80%93-sha256-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-%EB%B3%B5%ED%98%B8%ED%99%94  
 => 해시 알고리즘 및 sha256  
+https://stackoverflow.com/questions/40506701/extract-file-that-contains-specific-string-on-filename-from-zip-using-python-zip  
+=> zipfile, 정규식으로 파일 압축풀기  
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
