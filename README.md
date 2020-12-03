@@ -237,11 +237,12 @@ https://overcode.tistory.com/entry/HTML-Encoding-ReferenceURL-%EC%9D%B8%EC%BD%94
 => URL 인코딩 아스키 문자 변환표  
 
 ### SQL  
-http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC
-https://ssoonidev.tistory.com/71
-https://myjamong.tistory.com/53
--> pymysql 모듈, 파이썬 mysql 연동
-
+http://pythonstudy.xyz/python/article/202-MySQL-%EC%BF%BC%EB%A6%AC  
+https://ssoonidev.tistory.com/71  
+https://myjamong.tistory.com/53  
+-> pymysql 모듈, 파이썬 mysql 연동  
+https://yurimkoo.github.io/python/2019/09/14/connect-db-with-python.html  
+-> pymysql모듈 - 데이터 update 등등  
 
 ---
 ## 정리 완료  
