@@ -108,12 +108,6 @@ https://github.com/pandas-dev/pandas/issues/10534
 => read_html 데이터 타입 설정, converters옵션  
 
 ### 통계  
-https://www.slideshare.net/ssuserd6c109/ss-125788862  
--> 머신러닝과 사이킷런의 이해 : 개념적인 글 (잘 설명이 되어 있음)  
-https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
-=> k-means 클러스터링 간단히 구현 방법  
-https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/  
-=> k-means 조금 자세한 설명  
 https://www.codeit.kr/questions/7823  
 https://pinkwink.kr/1127  
 => 추세선 그리기 (날짜가 X일때는 위의 timestamp를 이용해야함)  
@@ -129,15 +123,8 @@ https://datascienceschool.net/view-notebook/e6c0d4ff9f4c403c8587c7d394bc930a/
 => scipy를 이용한 확률분포 (CDF, 누적 확률분포함수 찾다가)  
 https://datascienceschool.net/view-notebook/4d74d1b5651245a7903583f30ae44608/  
 => 확률밀도함수, 확률분포함수 기초 개념   
-https://bcho.tistory.com/1205  
-https://untitledtblog.tistory.com/146  
-=> DBSCAN (밀도기반 클러스터링)  
-https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html  
-=> 사이킷런 DBSCAN 설명  
 https://m.blog.naver.com/PostView.nhn?blogId=wjddudwo209&logNo=220864977498&proxyReferer=https%3A%2F%2Fwww.google.com%2F  
 => sklearn decision tree 결정경계 뽑아내기  
-https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
-=> DBSCAN 자세한 설명  
 https://forensics.tistory.com/19  
 => 시그모이드 함수, 프로빗 함수(CDF, 누적정규분포함수)  
 https://excelsior-cjh.tistory.com/167  
@@ -401,7 +388,22 @@ https://stackoverflow.com/questions/20105364/how-can-i-make-a-scatter-plot-color
 https://stackoverflow.com/questions/10101700/moving-matplotlib-legend-outside-of-the-axis-makes-it-cutoff-by-the-figure-box  
 -> 범례 위치 조정하기, bbox_to_anchor 옵션  
 
-  
+### 통계  
+https://www.slideshare.net/ssuserd6c109/ss-125788862  
+-> 머신러닝과 사이킷런의 이해 : 개념적인 글 (잘 설명이 되어 있음)  
+https://nonmeyet.tistory.com/entry/Python-Kmeans-clustering-%EA%B5%AC%ED%98%84  
+=> k-means 클러스터링 간단히 구현 방법  
+https://datascienceschool.net/view-notebook/2205ad8f0c5947c08696e8927b466341/  
+=> k-means 조금 자세한 설명  
+https://bcho.tistory.com/1205  
+https://untitledtblog.tistory.com/146  
+=> DBSCAN (밀도기반 클러스터링)  
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html  
+=> 사이킷런 DBSCAN 설명  
+https://datascienceschool.net/view-notebook/e335aec955e844a981b41e4e11f79174/  
+=> DBSCAN 자세한 설명  
+
+
 ### 기타  
 https://codeday.me/ko/qa/20190318/92935.html  
 -> 난수 발생시, 시드를 설정하는 이유 : np.random.seed(0)  
