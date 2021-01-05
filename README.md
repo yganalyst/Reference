@@ -1,23 +1,13 @@
 ## 정리 미완료   
 
-https://www.slideshare.net/dahlmoon/collections-20160313  
-=> collections 모듈  
-https://excelsior-cjh.tistory.com/97  
-=> collections 모듈 namedtuple 설명  
-https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-lists-in-python   
-=> 대규모 list 연산속도 비교  
-https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0   
-=> 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
-https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
-=> 스크립트 실행 중단시키기, sys.exit()  
-https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
-=> 파일 생성일 수정일 알아내기 python  
-https://pinocc.tistory.com/175  
-=> if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
-https://lactea.kr/entry/python-%E2%80%93-sha256-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-%EB%B3%B5%ED%98%B8%ED%99%94  
-=> 해시 알고리즘 및 sha256  
-https://stackoverflow.com/questions/40506701/extract-file-that-contains-specific-string-on-filename-from-zip-using-python-zip  
-=> zipfile, 정규식으로 파일 압축풀기  
+### 파이썬 기본  
+https://chancoding.tistory.com/85  
+https://eehoeskrap.tistory.com/401  
+=> 가상환경 필요한 이유와 설치방법  
+https://qastack.kr/programming/30170468/how-to-run-spyder-in-virtual-environment  
+=> 가상환경에서 spyder 실행(conda install spyder-kernels 설치하고 preference에서 환경변수 설정해주면 됨)  
+
+
 
 ### generator & iterator  
 https://bluese05.tistory.com/56  
@@ -230,6 +220,26 @@ https://myjamong.tistory.com/53
 -> pymysql 모듈, 파이썬 mysql 연동  
 https://yurimkoo.github.io/python/2019/09/14/connect-db-with-python.html  
 -> pymysql모듈 - 데이터 update 등등  
+
+### 기타  
+https://www.slideshare.net/dahlmoon/collections-20160313  
+=> collections 모듈  
+https://excelsior-cjh.tistory.com/97  
+=> collections 모듈 namedtuple 설명  
+https://stackoverflow.com/questions/20816600/best-and-or-fastest-way-to-create-lists-in-python   
+=> 대규모 list 연산속도 비교  
+https://hashcode.co.kr/questions/1184/pythonpath%EC%97%90-%EC%98%81%EA%B5%AC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0   
+=> 영구적 환경변수 추가 방법(커스텀 모듈 import 할떄)    
+https://stackoverflow.com/questions/179369/how-do-i-abort-the-execution-of-a-python-script  
+=> 스크립트 실행 중단시키기, sys.exit()  
+https://hashcode.co.kr/questions/278/%ED%8C%8C%EC%9D%BC-%EC%83%9D%EC%84%B1%EC%9D%BC%EC%9D%B4%EB%9E%91-%EC%88%98%EC%A0%95%EC%9D%BC-%EC%95%8C%EC%95%84%EB%82%B4%EB%8A%94-%EB%B2%95  
+=> 파일 생성일 수정일 알아내기 python  
+https://pinocc.tistory.com/175  
+=> if name main 정확한 의미 : 쉘에 실행을 하면 name변수에 "__main__"이라는 것으로 셋팅을 하게 되기때문에, 해당 라인은 쉘에서 실행 시 True값이 나오면서 실행되는 것임  
+https://lactea.kr/entry/python-%E2%80%93-sha256-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-%EB%B3%B5%ED%98%B8%ED%99%94  
+=> 해시 알고리즘 및 sha256  
+https://stackoverflow.com/questions/40506701/extract-file-that-contains-specific-string-on-filename-from-zip-using-python-zip  
+=> zipfile, 정규식으로 파일 압축풀기  
 
 ---
 ## 정리 완료  
