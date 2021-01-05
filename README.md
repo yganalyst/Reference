@@ -3,6 +3,7 @@
 ### 파이썬 기본  
 https://chancoding.tistory.com/85  
 https://eehoeskrap.tistory.com/401  
+https://bradbury.tistory.com/62  
 => 가상환경 필요한 이유와 설치방법  
 https://qastack.kr/programming/30170468/how-to-run-spyder-in-virtual-environment  
 => 가상환경에서 spyder 실행(conda install spyder-kernels 설치하고 preference에서 환경변수 설정해주면 됨)  
