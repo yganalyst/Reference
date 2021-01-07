@@ -2,7 +2,7 @@
 
 ### 파이썬 기본  
 https://dojang.io/mod/page/view.php?id=2470  
-=> 꽤 자세함  
+=> 꽤 자세함(Requirement.txt로 해당 가상환경의 패키지 정보를 불러올 수 있음)  
 https://chancoding.tistory.com/85  
 https://eehoeskrap.tistory.com/401  
 https://bradbury.tistory.com/62  
