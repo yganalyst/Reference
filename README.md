@@ -13,6 +13,7 @@ https://dandyrilla.github.io/2018-10-01/conda-env/
 => 가상환경 사용법 모음  
 https://machine-geon.tistory.com/42    
 => 환경변수 설정(다른드라이브에 설치 시)  
+https://fakecan.tistory.com/10  
 https://chancoding.tistory.com/86  
 => 가상환경 주피터 설치 및 커널 추가  
 https://stackoverflow.com/questions/54224969/import-error-while-trying-to-run-jupyter-notebook  
