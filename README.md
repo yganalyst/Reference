@@ -1,27 +1,5 @@
 ## 정리 미완료   
 
-### 파이썬 기본  
-https://dojang.io/mod/page/view.php?id=2470  
-=> 꽤 자세함(Requirement.txt로 해당 가상환경의 패키지 정보를 불러올 수 있음)  
-https://chancoding.tistory.com/85  
-https://eehoeskrap.tistory.com/401  
-https://bradbury.tistory.com/62  
-=> 가상환경 필요한 이유와 설치방법  
-https://qastack.kr/programming/30170468/how-to-run-spyder-in-virtual-environment  
-=> 가상환경에서 spyder 실행(conda install spyder-kernels 설치하고 preference에서 환경변수 설정해주면 됨)  
-https://bradbury.tistory.com/63  
-=> 가상환경에 pycharm 연동  
-https://dandyrilla.github.io/2018-10-01/conda-env/  
-=> 가상환경 사용법 모음  
-https://machine-geon.tistory.com/42    
-=> 환경변수 설정(다른드라이브에 설치 시)  
-https://fakecan.tistory.com/10  
-https://chancoding.tistory.com/86  
-=> 가상환경 주피터 설치 및 커널 추가  
-https://stackoverflow.com/questions/54224969/import-error-while-trying-to-run-jupyter-notebook  
-=> 가상환경 주피터 오류 해결(pyzmq 재설치)  
-
-
 ### generator & iterator  
 https://bluese05.tistory.com/56  
 https://whatisthenext.tistory.com/114  
@@ -453,4 +431,25 @@ https://stackoverflow.com/questions/942543/operation-on-every-pair-of-element-in
 => 1개 리스트에서 원소끼리의 쌍 구하기  
 https://doubly12f.tistory.com/56  
 => pandas apply함수에서 tqdm처럼 프로세스 보여주는 progress_apply  
+
+### 가상환경  
+https://dojang.io/mod/page/view.php?id=2470  
+=> 꽤 자세함(Requirement.txt로 해당 가상환경의 패키지 정보를 불러올 수 있음)  
+https://chancoding.tistory.com/85  
+https://eehoeskrap.tistory.com/401  
+https://bradbury.tistory.com/62  
+=> 가상환경 필요한 이유와 설치방법  
+https://qastack.kr/programming/30170468/how-to-run-spyder-in-virtual-environment  
+=> 가상환경에서 spyder 실행(conda install spyder-kernels 설치하고 preference에서 환경변수 설정해주면 됨)  
+https://bradbury.tistory.com/63  
+=> 가상환경에 pycharm 연동  
+https://dandyrilla.github.io/2018-10-01/conda-env/  
+=> 가상환경 사용법 모음  
+https://machine-geon.tistory.com/42    
+=> 환경변수 설정(다른드라이브에 설치 시)  
+https://fakecan.tistory.com/10  
+https://chancoding.tistory.com/86  
+=> 가상환경 주피터 설치 및 커널 추가  
+https://stackoverflow.com/questions/54224969/import-error-while-trying-to-run-jupyter-notebook  
+=> 가상환경 주피터 오류 해결(pyzmq 재설치)  
 
