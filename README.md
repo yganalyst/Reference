@@ -231,6 +231,9 @@ https://lactea.kr/entry/python-%E2%80%93-sha256-%EC%95%94%ED%98%B8%ED%99%94-%EB%
 => 해시 알고리즘 및 sha256  
 https://stackoverflow.com/questions/40506701/extract-file-that-contains-specific-string-on-filename-from-zip-using-python-zip  
 => zipfile, 정규식으로 파일 압축풀기  
+https://stackoverflow.com/questions/13139630/how-can-i-change-the-font-size-of-ticks-of-axes-object-in-matplotlib  
+=> ax.tick_params : ax에서 축 폰트사이즈 조정  
+
 
 ---
 ## 정리 완료  
