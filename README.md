@@ -237,6 +237,13 @@ https://stackoverflow.com/questions/40506701/extract-file-that-contains-specific
 https://stackoverflow.com/questions/13139630/how-can-i-change-the-font-size-of-ticks-of-axes-object-in-matplotlib  
 => ax.tick_params : ax에서 축 폰트사이즈 조정  
 
+## 시각화  
+https://stackoverflow.com/questions/38086972/stacked-3d-bar-chart-with-matplotlib  
+=> stacked 3d bar chart python
+
+https://stackoverflow.com/questions/60111736/make-transparent-color-bar-with-height-0-in-matplotlib  
+=> hide zero value with 3d bar chart  
+
 
 ---
 ## 정리 완료  
