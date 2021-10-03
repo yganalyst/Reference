@@ -60,6 +60,8 @@ https://stackoverflow.com/questions/17063458/reading-an-excel-file-in-python-usi
 => excel 파일 sheet 식별해서 read하기  
 https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list-of-lists  
 => list of list to list (flatten)  
+https://stackoverflow.com/questions/53335567/use-pandas-shift-within-a-group  
+=> groupby shift : group별 row 밀고 당기기  
 
 
 ### web
