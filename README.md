@@ -62,6 +62,8 @@ https://stackoverflow.com/questions/952914/how-to-make-a-flat-list-out-of-a-list
 => list of list to list (flatten)  
 https://stackoverflow.com/questions/53335567/use-pandas-shift-within-a-group  
 => groupby shift : group별 row 밀고 당기기  
+https://stackoverflow.com/questions/38088652/pandas-convert-categories-to-numbers  
+=> categorical 데이터를 숫자로 encoding 하기  
 
 
 ### web
