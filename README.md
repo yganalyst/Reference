@@ -251,6 +251,9 @@ https://stackoverflow.com/questions/38086972/stacked-3d-bar-chart-with-matplotli
 https://stackoverflow.com/questions/60111736/make-transparent-color-bar-with-height-0-in-matplotlib  
 => hide zero value with 3d bar chart  
 
+https://cosmosproject.tistory.com/431  
+=> matplotlib: plot animation 
+
 ### numpy  
 https://jfun.tistory.com/61  
 => np.bincount() : 정수가 나타난 횟수 카운팅 (0 13개, 1 5개, 2 9개, 3 9개, 4 15개,..)  
